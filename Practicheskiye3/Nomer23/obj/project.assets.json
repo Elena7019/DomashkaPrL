@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\МайбородаЕВ\\Desktop\\Practicheskiye\\Practich3\\Nomer23\\Nomer23.csproj",
+      "projectUniqueName": "C:\\Users\\МайбородаЕВ\\Desktop\\Practicheskiye\\Practicheskiye3\\Nomer23\\Nomer23.csproj",
       "projectName": "Nomer23",
-      "projectPath": "C:\\Users\\МайбородаЕВ\\Desktop\\Practicheskiye\\Practich3\\Nomer23\\Nomer23.csproj",
+      "projectPath": "C:\\Users\\МайбородаЕВ\\Desktop\\Practicheskiye\\Practicheskiye3\\Nomer23\\Nomer23.csproj",
       "packagesPath": "C:\\Users\\МайбородаЕВ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\МайбородаЕВ\\Desktop\\Practicheskiye\\Practich3\\Nomer23\\obj\\",
+      "outputPath": "C:\\Users\\МайбородаЕВ\\Desktop\\Practicheskiye\\Practicheskiye3\\Nomer23\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\МайбородаЕВ\\AppData\\Roaming\\NuGet\\NuGet.Config"
