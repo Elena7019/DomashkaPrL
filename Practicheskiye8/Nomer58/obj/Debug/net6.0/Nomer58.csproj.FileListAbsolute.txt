@@ -1,0 +1,15 @@
+C:\Users\МайбородаЕВ\Desktop\Practicheskiye\Practicheskiye8\Nomer58\bin\Debug\net6.0\Nomer58.exe
+C:\Users\МайбородаЕВ\Desktop\Practicheskiye\Practicheskiye8\Nomer58\bin\Debug\net6.0\Nomer58.deps.json
+C:\Users\МайбородаЕВ\Desktop\Practicheskiye\Practicheskiye8\Nomer58\bin\Debug\net6.0\Nomer58.runtimeconfig.json
+C:\Users\МайбородаЕВ\Desktop\Practicheskiye\Practicheskiye8\Nomer58\bin\Debug\net6.0\Nomer58.dll
+C:\Users\МайбородаЕВ\Desktop\Practicheskiye\Practicheskiye8\Nomer58\bin\Debug\net6.0\Nomer58.pdb
+C:\Users\МайбородаЕВ\Desktop\Practicheskiye\Practicheskiye8\Nomer58\obj\Debug\net6.0\Nomer58.csproj.AssemblyReference.cache
+C:\Users\МайбородаЕВ\Desktop\Practicheskiye\Practicheskiye8\Nomer58\obj\Debug\net6.0\Nomer58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\МайбородаЕВ\Desktop\Practicheskiye\Practicheskiye8\Nomer58\obj\Debug\net6.0\Nomer58.AssemblyInfoInputs.cache
+C:\Users\МайбородаЕВ\Desktop\Practicheskiye\Practicheskiye8\Nomer58\obj\Debug\net6.0\Nomer58.AssemblyInfo.cs
+C:\Users\МайбородаЕВ\Desktop\Practicheskiye\Practicheskiye8\Nomer58\obj\Debug\net6.0\Nomer58.csproj.CoreCompileInputs.cache
+C:\Users\МайбородаЕВ\Desktop\Practicheskiye\Practicheskiye8\Nomer58\obj\Debug\net6.0\Nomer58.dll
+C:\Users\МайбородаЕВ\Desktop\Practicheskiye\Practicheskiye8\Nomer58\obj\Debug\net6.0\refint\Nomer58.dll
+C:\Users\МайбородаЕВ\Desktop\Practicheskiye\Practicheskiye8\Nomer58\obj\Debug\net6.0\Nomer58.pdb
+C:\Users\МайбородаЕВ\Desktop\Practicheskiye\Practicheskiye8\Nomer58\obj\Debug\net6.0\Nomer58.genruntimeconfig.cache
+C:\Users\МайбородаЕВ\Desktop\Practicheskiye\Practicheskiye8\Nomer58\obj\Debug\net6.0\ref\Nomer58.dll
