@@ -1,0 +1,15 @@
+C:\Users\МайбородаЕВ\Desktop\Practicheskiye\Practicheskiye9\Nomer64\bin\Debug\net6.0\Nomer64.exe
+C:\Users\МайбородаЕВ\Desktop\Practicheskiye\Practicheskiye9\Nomer64\bin\Debug\net6.0\Nomer64.deps.json
+C:\Users\МайбородаЕВ\Desktop\Practicheskiye\Practicheskiye9\Nomer64\bin\Debug\net6.0\Nomer64.runtimeconfig.json
+C:\Users\МайбородаЕВ\Desktop\Practicheskiye\Practicheskiye9\Nomer64\bin\Debug\net6.0\Nomer64.dll
+C:\Users\МайбородаЕВ\Desktop\Practicheskiye\Practicheskiye9\Nomer64\bin\Debug\net6.0\Nomer64.pdb
+C:\Users\МайбородаЕВ\Desktop\Practicheskiye\Practicheskiye9\Nomer64\obj\Debug\net6.0\Nomer64.csproj.AssemblyReference.cache
+C:\Users\МайбородаЕВ\Desktop\Practicheskiye\Practicheskiye9\Nomer64\obj\Debug\net6.0\Nomer64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\МайбородаЕВ\Desktop\Practicheskiye\Practicheskiye9\Nomer64\obj\Debug\net6.0\Nomer64.AssemblyInfoInputs.cache
+C:\Users\МайбородаЕВ\Desktop\Practicheskiye\Practicheskiye9\Nomer64\obj\Debug\net6.0\Nomer64.AssemblyInfo.cs
+C:\Users\МайбородаЕВ\Desktop\Practicheskiye\Practicheskiye9\Nomer64\obj\Debug\net6.0\Nomer64.csproj.CoreCompileInputs.cache
+C:\Users\МайбородаЕВ\Desktop\Practicheskiye\Practicheskiye9\Nomer64\obj\Debug\net6.0\Nomer64.dll
+C:\Users\МайбородаЕВ\Desktop\Practicheskiye\Practicheskiye9\Nomer64\obj\Debug\net6.0\refint\Nomer64.dll
+C:\Users\МайбородаЕВ\Desktop\Practicheskiye\Practicheskiye9\Nomer64\obj\Debug\net6.0\Nomer64.pdb
+C:\Users\МайбородаЕВ\Desktop\Practicheskiye\Practicheskiye9\Nomer64\obj\Debug\net6.0\Nomer64.genruntimeconfig.cache
+C:\Users\МайбородаЕВ\Desktop\Practicheskiye\Practicheskiye9\Nomer64\obj\Debug\net6.0\ref\Nomer64.dll
